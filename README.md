@@ -1,1 +1,1 @@
-https://github.com/Varvara29/rsschool-cv/blob/gh-pages/cv.md
+https://Varvara29.github.io/rsschool-cv/cv
